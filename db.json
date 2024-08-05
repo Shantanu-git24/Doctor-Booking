@@ -1,0 +1,183 @@
+{
+  "appointments": [
+    {
+      "id": "1ba4",
+      "doctor": "Doctor 1",
+      "date": "2024-07-27T18:30:00.000Z",
+      "time": "08:47",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "dd2a",
+      "doctor": "Doctor 2",
+      "date": "2024-07-29T18:30:00.000Z",
+      "time": "11:00 AM",
+      "firstName": "Shantanuuuu",
+      "lastName": "Kolay",
+      "email": "skolay199@gmail.com",
+      "phone": "8614900990"
+    },
+    {
+      "id": "1e8f",
+      "doctor": "Doctor 1",
+      "date": "2024-07-30T18:30:00.000Z",
+      "time": "10:00 AM",
+      "firstName": "Amit",
+      "lastName": "Das",
+      "email": "skolay1992@gmail.com",
+      "phone": "9714900990"
+    },
+    {
+      "id": "f70f",
+      "doctor": "Doctor 2",
+      "date": "2024-08-02T18:30:00.000Z",
+      "time": "10:00 AM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "8c58",
+      "doctor": "Doctor 2",
+      "date": "2024-08-01T18:30:00.000Z",
+      "time": "10:00 AM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "fa17",
+      "doctor": "Doctor 1",
+      "date": "2024-08-02T18:30:00.000Z",
+      "time": "11:00 AM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "c186",
+      "doctor": "Doctor 1",
+      "date": "2024-08-09T18:30:00.000Z",
+      "time": "2:00 PM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "9076",
+      "doctor": "Doctor 1",
+      "date": "2024-08-03T18:30:00.000Z",
+      "time": "11:00 AM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "257e",
+      "doctor": "Doctor 2",
+      "date": "2024-07-28T18:30:00.000Z",
+      "time": "10:00 AM",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": "ec92",
+      "doctor": "Doctor 1",
+      "date": "2024-08-22T18:30:00.000Z",
+      "time": "2:00 PM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "18fd",
+      "doctor": "Doctor 1",
+      "date": "2024-08-15T18:30:00.000Z",
+      "time": "10:00 AM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "6f0d",
+      "doctor": "Doctor 2",
+      "date": "2024-08-09T18:30:00.000Z",
+      "time": "10:00 AM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "7c19",
+      "doctor": "Doctor 2",
+      "date": "2024-08-20T18:30:00.000Z",
+      "time": "2:00 PM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "a654",
+      "date": "2024-08-30",
+      "time": "11:00 AM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "42e1",
+      "doctor": "Doctor 1",
+      "date": "2024-08-15",
+      "time": "3:00 PM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "09614900990"
+    },
+    {
+      "id": "f96f",
+      "doctor": "Doctor 1",
+      "date": "2024-07-31",
+      "time": "2:00 PM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "9614900990"
+    },
+    {
+      "id": "86cd",
+      "doctor": "Doctor 1",
+      "date": "2024-08-22",
+      "time": "11:00 AM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "9614900990"
+    },
+    {
+      "id": "1889",
+      "doctor": "Doctor 1",
+      "date": "2024-08-29",
+      "time": "11:00 AM",
+      "firstName": "Shantanu",
+      "lastName": "Kolay",
+      "email": "skolay1992@gmail.com",
+      "phone": "9614900990"
+    }
+  ]
+}
